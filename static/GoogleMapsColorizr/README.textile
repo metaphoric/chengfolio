@@ -1,4 +1,4 @@
 h1. Google Maps Colorizr
-https://github.com/stadtwerk/GoogleMapsColorizr
 
 Generates HSL colors for the Google Maps API 3.
+https://github.com/stadtwerk/GoogleMapsColorizr
